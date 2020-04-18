@@ -1,0 +1,16 @@
+html{
+    background-color: #ADD8E6;
+}
+p{
+    background: white;
+    padding:20px;
+    margin: 250px;
+    border-radius:20px 20px 20px 0px;
+    width:600px;  
+    
+}
+.header{
+    color: blue;
+    margin-top: 50px;
+    line-height: 0.4em;
+}
